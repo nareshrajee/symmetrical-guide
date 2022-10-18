@@ -1,1 +1,2 @@
 select * from claims_table
+select * from table2;
